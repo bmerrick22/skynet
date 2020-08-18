@@ -1,0 +1,64 @@
+Beginning Tests...
+
+------------FIRST TESTS: LATENCY-----------------
+
+            SINGLE SERVER MODE                   
+
+Directory Listing:
+
+Average latency time after 4 trials: .017
+
+Static Files:
+
+Average latency time after 4 trials: .017
+
+CGI:
+
+Average latency time after 4 trials: .410
+
+           FORKING SERVER MODE               
+
+Directory Listing:
+
+Average latency time after 4 trials: .016
+
+Static Files:
+
+Average latency time after 4 trials: .017
+
+CGI: 
+
+Average latency time after 4 trials: .192
+
+
+------------SECOND TEST: THROUGHPUT--------------
+
+            SINGLE SERVER MODE                   
+1 KB:
+
+Average throughput after 4 trials: .303 megabytes/second
+
+1 MB:
+
+Average throughput after 4 trials: 68.493 megabytes/second
+
+1 GB:
+
+Average throughput after 4 trials: 90.064 megabytes/second
+
+
+               FORKING  MODE                   
+
+1 KB:
+
+Average throughput after 4 trials: .005 megabytes/second
+
+1 MB:
+
+Average throughput after 4 trials: 71.428 megabytes/second
+
+1 GB:
+
+Average throughput after 4 trials: 47.158 megabytes/second
+
+
