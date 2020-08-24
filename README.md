@@ -4,6 +4,9 @@
 
 This is the [Final Project] for [CSE 20289 Systems Programming (Spring 2019)].
 
+## 2020 Note
+This read me is the required deliverable for my final project for Systems Programming. The project used C to develop a server program using sockets and forking to allow clients to connect to the site. It used basic HTML to host text files of various sizes, images, and run scripts. We also created a python script called Thor.py to hammer the server code.
+
 ## Members
 
 - Ben Merrick (bmerrick@nd.edu)
